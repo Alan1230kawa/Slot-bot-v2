@@ -110,4 +110,4 @@ client.on("messageCreate", async message => {
 end(client,cf)
 
 
-client.login("Your Bot Token")
+client.login("MTI1NTgwNTc4MDE2NzM2MDU0Mg.Gd7GH7.c35nI4gecDZhJopYnOmZpLo7WJ1rXaBM_BwMbE")
