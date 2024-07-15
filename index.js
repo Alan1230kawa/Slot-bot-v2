@@ -44,7 +44,7 @@ if (cf.config.guild_x=="None" || cf.config.role_x=="None" || cf.config.staff_x==
 client.commands = new Collection();
 client.aliases = new Collection()
 mongoose.set("strictQuery", false);
-mongoose.connect("Mongo Url").then(console.log(`\x1b[34m%s\x1b[0m`,'Connected to Mongodb.'));
+mongoose.connect(mongodb+srv://Alanmm11:AlanKawa00@cluster0.0ve40rg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0").then(console.log(`\x1b[34m%s\x1b[0m`,'Connected to Mongodb.'));
 
 
 
