@@ -10,7 +10,7 @@ const cf = {
 
     logchannel: '1262340873656729632', //channel id for slot revoke notice
 
-    slotrule: `test`, // your slot rules
+    slotrule: `tkaya la aw shtanay ka dyari krawa bot zyatr bakar mahena agar revoke bet ba 500k revoke la abret`, // your slot rules
   }
 }
 
